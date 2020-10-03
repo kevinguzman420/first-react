@@ -2,7 +2,6 @@
   "name": "myfirstapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kevinguzman420.github.com.id/first-react-example",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
     "@fortawesome/free-regular-svg-icons": "^5.14.0",
@@ -18,8 +17,6 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
