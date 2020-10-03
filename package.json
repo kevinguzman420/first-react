@@ -2,7 +2,7 @@
   "name": "myfirstapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kevinguzman420.github.id/react-first-example",
+  "homepage": "http://kevinguzman420.github.io/react-first-example",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
     "@fortawesome/free-regular-svg-icons": "^5.14.0",
